@@ -1,0 +1,7 @@
+{
+  "name": "Smart Harvest (حصادك الذكي)",
+  "description": "Smart IoT Irrigation System connecting to ESP32 telemetry with real-time soil moisture, pump control, weather data, water analytics, zone thresholds, and Gemini AI agronomic advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
